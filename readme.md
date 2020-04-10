@@ -2,7 +2,7 @@
  * @Author: aponder
  * @Date: 2020-04-10 18:15:31
  * @LastEditors: aponder
- * @LastEditTime: 2020-04-10 18:33:02
+ * @LastEditTime: 2020-04-10 18:34:31
  * @FilePath: /pdf2txt/readme.md
  -->
 # pdf2txt
@@ -19,7 +19,7 @@ Just use `git` to clone a copy of this repository. That is using `git clone http
 
 - Make sure your Python version is greater than 3.5 and your current working directory is the root path of this project in a terminal. 
 - Create a virtual environment for this project by typing this `virtualenv venv -p python3` in a terminal.
-- Activate the virtual environment by typing `.\venv\Scripts\activate` for Window's users or `source ./venv/bin/activate` for *nix's (Linux, MacOS, Unix, etc) users.
+- Activate the virtual environment by typing `.\venv\Scripts\activate` for Window's users or `source ./venv/bin/activate` for *nix's (Linux, MacOS, Unix, etc.) users.
 - Install all the required depencies by typing `pip install -r requirements.txt` in a terminal.
 
 ## Run

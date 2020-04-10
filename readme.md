@@ -2,7 +2,7 @@
  * @Author: aponder
  * @Date: 2020-04-10 18:15:31
  * @LastEditors: aponder
- * @LastEditTime: 2020-04-10 18:34:31
+ * @LastEditTime: 2020-04-10 18:38:45
  * @FilePath: /pdf2txt/readme.md
  -->
 # pdf2txt
@@ -36,4 +36,4 @@ See the LICENSE file.
 
 ## Thanks
 
-Thank you for your intention.
+Thank you for your attention.

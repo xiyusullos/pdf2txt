@@ -31,7 +31,7 @@ def main():
         file_name = str(f.absolute())
         txt_name = file_name[:-4] + '.txt'
         if '.pdf' in file_name:
-            Path(txt_name).write_text(pdf2txt(file_name))
+            Path(txt_name).write_text(pdf2txt(file_name), encoding='utf8')
 
 
 if __name__ == '__main__':
